@@ -1,0 +1,6 @@
+spring:
+  profiles:
+    active: local  # Default to 'local' profile if not set
+
+  application:
+    name: INVOICE - SYSTEM
